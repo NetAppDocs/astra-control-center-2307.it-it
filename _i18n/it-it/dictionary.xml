@@ -3109,7 +3109,6 @@ La clonazione di un'applicazione con una classe di storage esplicitamente impost
   <block id="dd490b81914dd945601e442a41cb4222" category="sidebar">Community NetApp</block>
   <block id="874d8a5301794a9ca2aba132ac2460f3" category="sidebar">Hub Kubernetes</block>
   <block id="213686afc3803be7caa09348765467fe" category="sidebar">Dove ottenere aiuto</block>
-  <block id="0a560904c58e3cede88c521d796e1617" category="sidebar">Documentazione di Astra Control Center</block>
   <block id="93168a8084b3e838d2932c4734bd234e" category="sidebar">Versioni precedenti</block>
   <block id="be11c74c1dd7f307bb80183a90dc2067" category="sidebar">Inizia subito</block>
   <block id="6bdc7c13872089b240b2d2e134bf8244" category="sidebar">Configurare un cert-manager esterno</block>
@@ -3128,4 +3127,5 @@ La clonazione di un'applicazione con una classe di storage esplicitamente impost
   <block id="0460583622f03a52d7693094d6fa2452" category="sidebar">Concetti</block>
   <block id="8d85c59d57ad2cafad4f894413219af0" category="sidebar">Classi di storage e dimensioni PV</block>
   <block id="ae5601e1a5453d0b5924098584b9c3f2" category="sidebar">Novità di questa release di Astra Control Center</block>
+  <block id="6864eb9fc45cd6c1219a8562ce1cbe18" category="sidebar">Documentazione su Astra Control Center 23,07</block>
 </blocks>
